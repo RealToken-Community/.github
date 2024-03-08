@@ -1,7 +1,9 @@
-# Welcome to the REALTOKEN Ecosystem - Community Project
-
 <p align="center">
   <img src="https://i.ibb.co/j6wg9W4/image.png" alt="REALTOKEN Ecosystem Banner">
+</p>
+
+<p align="center">
+  <strong><span style="font-size: larger;">Welcome to the REALTOKEN Ecosystem - Community Project</span></strong>
 </p>
 
 <p align="center">
