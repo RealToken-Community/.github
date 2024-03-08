@@ -25,9 +25,9 @@
 
 Whether you're a developer, content creator, real estate specialist, or simply enthusiastic about contributing to the REALTOKEN ecosystem, your participation is welcome! Here's how you can contribute:
 
-- **Propose a Project:** Do you have an idea that could benefit the ecosystem? Create a new repo and share your vision!
-- **Join a Project:** Browse existing projects and lend your expertise.
-- **Suggest Improvements:** Your feedback and suggestions are valuable to help us grow.
+- [>](https://github.com/orgs/RealT-Community/discussions)  **Propose a Project:** Do you have an idea that could benefit the ecosystem? Create a new repo and share your vision!
+- [>](https://github.com/orgs/RealT-Community/repositories)  **Join a Project:** Browse existing projects and lend your expertise.
+- [>](https://github.com/orgs/RealT-Community/discussions)  **Suggest Improvements:** Your feedback and suggestions are valuable to help us grow.
 
 ## Useful Links
 
