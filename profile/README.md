@@ -17,19 +17,17 @@
 ##
 ##
 
-
 ## About REALT
 
 [REALT](https://realt.co/) is at the heart of our ecosystem, offering a new way to invest in real estate through tokenization. If you're not yet familiar with REALT, we encourage you to visit their website to learn more.
-
 
 ## How to Contribute
 
 Whether you're a developer, content creator, real estate specialist, or simply enthusiastic about contributing to the REALTOKEN ecosystem, your participation is welcome! Here's how you can contribute:
 
-- [>](https://github.com/orgs/RealT-Community/discussions)  **Propose a Project:** Do you have an idea that could benefit the ecosystem? Create a new repo and share your vision!
-- [>](https://github.com/orgs/RealT-Community/repositories)  **Join a Project:** Browse existing projects and lend your expertise.
-- [>](https://github.com/orgs/RealT-Community/discussions)  **Suggest Improvements:** Your feedback and suggestions are valuable to help us grow.
+- [>](https://github.com/orgs/RealT-Community/discussions) **Propose a Project:** Do you have an idea that could benefit the ecosystem? Create a new repo and share your vision!
+- [>](https://github.com/orgs/RealT-Community/repositories) **Join a Project:** Browse existing projects and lend your expertise.
+- [>](https://github.com/orgs/RealT-Community/discussions) **Suggest Improvements:** Your feedback and suggestions are valuable to help us grow.
 
 
  ## Stay Connected
@@ -39,9 +37,6 @@ Each repo contains (or will contain) a discussion space to talk about the latest
 
 ## Useful Links
 
-- [REALT Official Website](https://realt.co/)
-- [REALT GitHub](https://github.com/real-token)
-
-- [REALTOKEN Common Interface](https://github.com/RealT-Community/realt-interface-commons)
-
-
+- [RealT Official Website](https://realt.co/)
+- [RealT GitHub](https://github.com/real-token)
+- [RealToken Common Interface](https://github.com/RealT-Community/realt-interface-commons)
